@@ -1,0 +1,32 @@
+body {
+text-align: center;
+background-color: yellow;
+}
+
+marquee {
+    background-color: rgb(44, 204, 137);
+    color: white;
+    }
+
+iframe {
+margin: 10px;
+}
+
+#home {
+background-color: rgb(9, 207, 9);
+padding-bottom: 50px;
+}
+
+#contact-us {
+background-color: indianred;
+padding: 50px;
+height: 763px
+}
+
+#mspierson {
+border-radius: 200px;
+}
+
+#map{
+margin-right: 300px;
+}
